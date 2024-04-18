@@ -6,5 +6,3 @@ def calculate_sum(a, b):
 def calculate_min(a, b):
     minus = a - b
     return minus
-
-
